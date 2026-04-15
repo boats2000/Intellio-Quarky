@@ -1,5 +1,5 @@
 # Intellio Quarky Project Hub
-A collection of custom programs for the **Intellio Quarky** robot. This is an independent project hub for sharing logic and documentation.
+A collection of custom programs for the **Intellio Quarky** Rover. This is an independent project hub for sharing logic and documentation.
 
 ---
 
